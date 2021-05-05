@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vinayakbanga
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vinayak Banga
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning Full Stack Web development
+- 📫 How to reach me gmail📧 vinayakbanga22@gmail.com
+-
 
 <!---
 vinayakbanga/vinayakbanga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
