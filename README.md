@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://vinayakbanga.github.io/The-BurgerNation/]<!--(https://vinayakbanga.github.io/The-BurgerNation/)-->
+- 👨‍💻 All of my projects are available at [https://vinayakbanga.github.io/Portfolio/]<!--(https://vinayakbanga.github.io/The-BurgerNation/)-->
 
 - 📫 How to reach me **vinayakbanga22@gmail.com**
 
